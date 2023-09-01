@@ -1,0 +1,10 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\BlackJack21Yapimi\bin\Debug\BlackJack21Yapimi.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C#\BlackJack21Yapimi\bin\Debug\BlackJack21Yapimi.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\BlackJack21Yapimi\bin\Debug\BlackJack21Yapimi.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\BlackJack21Yapimi\obj\Debug\BlackJack21Yapimi.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\BlackJack21Yapimi\obj\Debug\BlackJack21Yapimi.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\BlackJack21Yapimi\obj\Debug\BlackJack21Yapimi.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\BlackJack21Yapimi\obj\Debug\BlackJack21Yapimi.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\BlackJack21Yapimi\obj\Debug\BlackJack21Yapimi.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\BlackJack21Yapimi\obj\Debug\BlackJack21Yapimi.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\BlackJack21Yapimi\obj\Debug\BlackJack21Yapimi.pdb
